@@ -1,0 +1,18 @@
+.navbar {
+  h1, p, div {
+    display: inline;
+  }
+
+  a {
+    text-decoration: none;
+    color: black;
+  }
+
+  .nav-right {
+    float: right;
+
+    p:hover {
+      cursor: pointer;
+    }
+  }
+}
